@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">SplashX</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="places_api_key">AIzaSyCTgbkB02Ckh44bzJ94d2udY1y-l1h97pQ</string>
+    <string name="places_request">https://maps.googleapis.com/maps/api/place/nearbysearch/json?location=-33.8670522,151.1957362&amp;radius=1500&amp;type=restaurant&amp;keyword=cruise&amp;key=AIzaSyCTgbkB02Ckh44bzJ94d2udY1y-l1h97pQ</string>
+    <string name="title_activity_favourites">Your favourites</string>
+    <string name="search_map_tooltip">Search swimming pools</string>
+    <string name="label_pool_open">Open</string>
+    <string name="label_pool_closed">Closed</string>
+    <string name="label_pool_temperatures">Current temperatures</string>
+    <string name="label_pool_weather">Weather</string>
+    <string name="label_pool_monday">Mon: </string>
+    <string name="label_pool_tuesday">Tue: </string>
+    <string name="label_pool_wednesday">Wed: </string>
+    <string name="label_pool_thursday">Thu: </string>
+    <string name="label_pool_friday">Fri: </string>
+    <string name="label_pool_saturday">Sat: </string>
+    <string name="label_pool_sunday">Sun: </string>
+    <string name="label_pool_opening">Opening hours</string>
+    <string name="label_pool_opening_everyday">Everyday</string>
+    <string name="label_pool_opening_workdays">Workdays</string>
+    <string name="label_pool_opening_holidays">Holidays</string>
+    <string name="label_pool_opening_weekend">Weekend</string>
+    <string name="label_pool_cost">Entry cost</string>
+    <string name="label_pool_cost_free">Free</string>
+    <string name="label_pool_cost_chf"> CHF</string>
+</resources>
