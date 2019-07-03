@@ -1,5 +1,7 @@
 package ch.bbcag.splashx.model;
 
+import org.json.JSONException;
+
 abstract public class Pool {
 
     private int temperature;
